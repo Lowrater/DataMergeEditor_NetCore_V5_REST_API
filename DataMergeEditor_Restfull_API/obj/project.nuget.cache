@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yZCWur66d6kt+6DgHlf4ek85/sIxRFaRVNNrAbQVvSagT/e0ZCIFJ2BwZNGfabqFN3w0BST5Fmuj79aFK8uy5A==",
+  "dgSpecHash": "L5vULRkVCwka/o+64PSPtAIK9o2Ndn4bzWWX9ASSjuLCp3dg7YwnlNuhzzTmGXFCxy8iLhUnmQnBiyMxZaugaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\djmar\\source\\repos\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj",
+  "projectFilePath": "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_REST_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djmar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\djmar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

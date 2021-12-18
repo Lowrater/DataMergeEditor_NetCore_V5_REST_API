@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djmar\\source\\repos\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj": {}
+    "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_REST_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djmar\\source\\repos\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj": {
+    "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_REST_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djmar\\source\\repos\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj",
+        "projectUniqueName": "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_REST_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj",
         "projectName": "DataMergeEditor_Restfull_API",
-        "projectPath": "C:\\Users\\djmar\\source\\repos\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj",
+        "projectPath": "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_REST_API\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API.csproj",
         "packagesPath": "C:\\Users\\djmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djmar\\source\\repos\\DataMergeEditor_Restfull_API\\DataMergeEditor_Restfull_API\\obj\\",
+        "outputPath": "D:\\GitRepositories\\DataMergeEditor_NetCore_V5_REST_API\\DataMergeEditor_Restfull_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft visual studio\\Shared\\NuGetPackages"
